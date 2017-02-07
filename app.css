@@ -1,0 +1,9 @@
+.login-component{
+    width:300px;
+}
+.register-container{
+    width:500px;
+}
+.register-container .form-group{
+        margin-top: 10px;
+ }
